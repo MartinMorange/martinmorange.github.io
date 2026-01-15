@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2025 - 2026 : Master "Mathématiques de la modélisation", Sorbonne Université, Paris, France
+* 2024 - 2025 : Master "Mathématiques de la modélisation", Sorbonne Université, Paris, France
 * 2021 - 2025 : Engineer degree, École polytechnique, Palaiseau, France
 * 2019 - 2021 : Classes préparatoires MPSI/MP*, Lycée Louis-le-Grand, Paris, France
 
