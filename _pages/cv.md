@@ -9,28 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* 2024 - 2025 : Master "Mathématiques de la modélisation", Sorbonne Université, Paris, France
-* 2021 - 2025 : Engineer degree, École polytechnique, Palaiseau, France
-* 2019 - 2021 : Classes préparatoires MPSI/MP*, Lycée Louis-le-Grand, Paris, France
+<div style="margin-bottom: 1em;">
+  <a href="/files/cv.pdf" target="_blank" rel="noopener noreferrer">
+    Download PDF
+  </a>
+</div>
 
-{%comment}
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-{% endcomment %}
+<iframe
+  src="/files/cv.pdf"
+  width="100%"
+  height="900px"
+  style="border: none;"
+>
+  <p>Your browser does not support iframes. 
+     <a href="/files/cv.pdf">Download the PDF</a> instead.
+  </p>
+</iframe>
